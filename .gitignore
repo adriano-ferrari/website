@@ -1,0 +1,7 @@
+# VIRTUAL_ENV
+.env
+
+
+# IDE
+.idea/
+.vscode/
